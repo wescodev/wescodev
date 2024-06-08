@@ -14,8 +14,16 @@
 - 💬 Objetivo em ser um Desenvolvedor FullStack
 - 📫 Como entrar em contato. Links abaixo
 
-[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesley-ribeiro-230533209/)
-[![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/weszin.py/?next=%2F&hl=pt)
+<br/>
+
+<div> 
+<a href="https://www.linkedin.com/in/wesley-ribeiro-230533209" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://instagram.com/weszin.py" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+<a href = "mailto:wesleysouza700@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+  
+</div>
 
 ## Skills
 
@@ -46,6 +54,8 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
 </p>
+
+<br/>
 
 <div style="display: flex; flex-direction: row;">
   <img src="https://github-readme-stats.vercel.app/api?username=wescodev&show_icons=true&theme=tokyonight" alt="Wesley GitHub stats" style="width: 50%;" />
