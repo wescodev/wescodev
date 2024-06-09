@@ -22,8 +22,17 @@
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 <a href = "mailto:wesleysouza700@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
+<br/><br/>
   
 </div>
+
+<div style="display: flex; flex-direction: row;">
+  <img src="https://github-readme-stats.vercel.app/api?username=wescodev&show_icons=true&theme=tokyonight" alt="Wesley GitHub stats" style="width: 50%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wescodev&layout=compact&theme=tokyonight" alt="Top Langs" style="width: 45%;" />
+</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wescodev&theme=tokyonight" alt="wescodev" /></p>
+
+<br/>
 
 ## Skills
 
@@ -57,11 +66,7 @@
 
 <br/>
 
-<div style="display: flex; flex-direction: row;">
-  <img src="https://github-readme-stats.vercel.app/api?username=wescodev&show_icons=true&theme=tokyonight" alt="Wesley GitHub stats" style="width: 50%;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wescodev&layout=compact&theme=tokyonight" alt="Top Langs" style="width: 45%;" />
-</div>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wescodev&theme=tokyonight" alt="wescodev" /></p>
+
 
 
 
