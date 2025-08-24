@@ -14,6 +14,8 @@
   A developer from Brazil learning every day.
 </p>
 
+<img align="right" alt="" height="190px" src="./src/home.png">
+
 #
 
 <p align="center">As a Computer Science student and Systems Analyst, my journey is a continuous path toward software development. Focused on building my skills in .NET and C#, I am constantly updating my knowledge and seeking new challenges in the tech field. I am passionate about learning and applying this knowledge to create innovative solutions.
