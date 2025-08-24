@@ -14,7 +14,9 @@
   A developer from Brazil learning every day.
 </p>
 
-<img align="right" alt="" height="190px" src="./src/home.png">
+<div align="center">
+  <img alt="banner" src="./src/home.png">
+</div>
 
 #
 
